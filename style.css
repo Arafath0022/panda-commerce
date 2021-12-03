@@ -48,3 +48,24 @@
 .categories{
     margin-top: 100px;
 }
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px grey;
+}
+
+#Contact{
+    height: 300px;
+}
+
+#Contact h6{
+    color: grey;
+}
+
+footer{
+    text-align: center;
+    color: grey;
+    font-weight: 500;
+    font-style: italic;
+    margin-bottom: 30px;
+}
